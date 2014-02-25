@@ -1,0 +1,7 @@
+{
+  "Framework": "qunit",
+  "References" : [
+    {"Path": "src", "Include": "*.ts" },
+    {"Path": "test", "Include": "*.d.ts" }
+  ]
+}
